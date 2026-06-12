@@ -1,4 +1,4 @@
-# 💫 Hi 👋, This is Mohit Kumar Shaw
+# Hi 👋, This is Mohit Kumar Shaw
 **A passionate Full Stack Developer || Data Science Aspirant  || Android Development Learner**
 **Passionate about building web applications with Python and Flask while exploring the world of Data Science and Machine Learning. Skilled in Python, DBMS, and problem-solving, with a strong commitment to continuous learning and innovation. Dedicated to creating impactful technology solutions and growing as a software and data professional.**
 
