@@ -1,18 +1,32 @@
 # Hi 👋, This is Mohit Kumar Shaw
-**Full Stack Developer || Data Science Aspirant  || Android Development Learner**
 
-**Passionate about building web applications with Python and Flask while exploring the world of Data Science and Machine Learning. Skilled in Python, DBMS, and problem-solving, with a strong commitment to continuous learning and innovation. Dedicated to creating impactful technology solutions and growing as a software and data professional.**
+Tech Enthusiast  | Full Stack Developer | Data Science Aspirant
 
-Email Me 👉 ✉️ **mohitshaw.contact@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+## 🚀 Currently Learning
 
-- 🔭 **I’m currently working on:** KMBB CMS Project
-- 🌱 **I’m currently learning:** Data science and Android development
-- 👯 **I'm looking to collaborate on:** Open Source Projects, Full Stack Web Applications, Android Apps, and Database Management Systems.
-- 🤔 **I'm looking for help with:** Scaling Full Stack Applications, Android App Architecture and Career Growth in Software Development.
-- 💬 **Ask me about:** Data Science, Android Development, Web Development, SQL, Database Design, Open Source and Technology.
-- 📫 **How to reach me:** mohitshaw.contact@gmail.com
-- 😄 **Pronouns:** Er Mohit
-⚡ **Fun fact:** I enjoy turning coffee into code and ideas into applications.
+• Android App Development (Kotlin & Android Studio)  
+• Data Science  
+• Python Development
+
+## 🔭 Currently Working On
+
+• KMBB College Management System (CMS)  
+• AI Chatbot Development  
+• Android Development Projects
+
+## 🎯 Goal
+
+To build impactful solutions through technology and innovation.
+
+## 💡 Interests
+
+- Android App Development
+- Data Science
+- Flask Development
+
+##⚡ Fun fact
+
+I enjoy turning coffee into code and ideas into applications.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/themohit.shaw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/themohit.shaw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/themohitshaw) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/themohitshaw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitshaw188@gmail.com) 
