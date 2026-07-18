@@ -42,11 +42,6 @@ I enjoy turning coffee into code and ideas into applications.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=themohitshaw&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=themohitshaw&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-# 📊 GitHub Stats:
-
-
 ![](https://github-readme-stats.vercel.app/api?username=themohitshaw&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 
@@ -64,6 +59,10 @@ I enjoy turning coffee into code and ideas into applications.
 [![](https://komarev.com/ghpvc/?username=themohitshaw&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=themohitshaw&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 
 
