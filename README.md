@@ -49,6 +49,22 @@ I enjoy turning coffee into code and ideas into applications.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
+# 📊 GitHub Stats:
+
+
+![](https://github-readme-stats.vercel.app/api?username=themohitshaw&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=themohitshaw&theme=dark&hide_border=false)
+
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=themohitshaw&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 ---
 [![](https://komarev.com/ghpvc/?username=themohitshaw&icon=0&color=0)](https://visitcount.itsvg.in)
 
