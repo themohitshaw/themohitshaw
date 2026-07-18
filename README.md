@@ -1,64 +1,110 @@
-# Hi 👋, This is Mohit Kumar Shaw
-
-Tech Enthusiast  | Full Stack Developer | Data Science Aspirant
-
-## 🚀 Currently Learning
-
-• Android App Development (Kotlin & Android Studio)  
-• Data Science  
-• Python Development
-
-## 🔭 Currently Working On
-
-• KMBB College Management System (CMS)  
-• AI Chatbot Development  
-• Android Development Projects
-
-## 🎯 Goal
-
-To build impactful solutions through technology and innovation.
-
-## 💡 Interests
-
-- Android App Development
-- Data Science
-- Flask Development
-
-##⚡ Fun fact
-
-I enjoy turning coffee into code and ideas into applications.
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/themohit.shaw) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/themohit.shaw) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/themohitshaw) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/themohitshaw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitshaw188@gmail.com) 
-
-<!-- Snake Game Repo View -->
-
-<!-- <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div> -->
-
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=themohitshaw&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mohit%20Kumar%20Shaw&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20Data%20Science%20Aspirant&descAlignY=62&descSize=16" width="100%"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=themohitshaw&theme=dark&hide_border=true)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+with+Kotlin%2C+Python+%26+Flask;Working+on+an+AI+Chatbot+and+a+College+CMS;Learning+Data+Science%2C+one+dataset+at+a+time." alt="Typing SVG"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=themohitshaw&layout=compact&theme=dark&hide_border=true)
+<br/><br/>
+
+<a href="https://linkedin.com/in/themohitshaw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohitshaw188@gmail.com"><img src="https://img.shields.io/badge/Email-2C5364?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/themohitshaw"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/themohit.shaw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://facebook.com/themohit.shaw"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 
 </div>
 
+<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=themohitshaw&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## About
 
+I'm a full stack developer with a growing focus on data science and Android development. I care about writing clean, maintainable code and turning ideas into working products — currently split between web systems, a chatbot, and mobile apps.
 
+| | |
+|---|---|
+| 🎓 **Focus** | Full Stack Development, Data Science |
+| 🔭 **Currently Building** | KMBB College Management System · AI Chatbot · Android Apps |
+| 📚 **Currently Learning** | Android (Kotlin), Data Science, Python |
+| 💬 **Interests** | Android Development, Data Science, Flask |
+| 📫 **Reach Me** | [mohitshaw188@gmail.com](mailto:mohitshaw188@gmail.com) |
 
+<br/>
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Tech Stack
 
+<table width="100%">
+<tr>
+<td valign="top" width="25%"><strong>Languages</strong></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Web & Frameworks</strong></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-D42029?style=flat-square&logo=apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Data & Analysis</strong></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td valign="top"><strong>Tools</strong></td>
+<td valign="top">
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+</td>
+</tr>
+</table>
 
+<br/>
+
+## GitHub Overview
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=themohitshaw&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=2C5364&icon_color=2C5364&text_color=333333&bg_color=ffffff"/>
+</td>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themohitshaw&layout=compact&theme=default&hide_border=true&title_color=2C5364&text_color=333333&bg_color=ffffff"/>
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=themohitshaw&theme=default&hide_border=true&background=ffffff&ring=2C5364&fire=2C5364&currStreakLabel=2C5364"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=themohitshaw&theme=minimal&hide_border=true&bg_color=ffffff&color=2C5364&line=2C5364&point=203A43"/>
+
+<br/>
+
+## Contribution Snake
+
+<img width="100%" src="https://raw.githubusercontent.com/themohitshaw/themohitshaw/output/github-contribution-grid-snake.svg"/>
+
+<sub>Requires a small GitHub Action to generate — see setup note below.</sub>
+
+<br/><br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+</div>
