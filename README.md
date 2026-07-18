@@ -80,31 +80,65 @@ I'm a full stack developer with a growing focus on data science and Android deve
 
 ## GitHub Overview
 
-<table width="100%">
+<!-- ================= GitHub Stats ================= -->
+
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=themohitshaw&show_icons=true" />
+<td width="50%" align="center">
+
+<img
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=themohitshaw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+width="100%"
+alt="GitHub Stats"/>
+
 </td>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=themohitshaw&layout=compact" />
+
+<td width="50%" align="center">
+
+<img
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=themohitshaw&layout=compact&theme=tokyonight&hide_border=true"
+width="100%"
+alt="Top Languages"/>
+
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=themohitshaw&theme=default&hide_border=true&background=ffffff&ring=2C5364&fire=2C5364&currStreakLabel=2C5364"/>
+<br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=themohitshaw&theme=minimal&hide_border=true&bg_color=ffffff&color=2C5364&line=2C5364&point=203A43"/>
+<!-- ================= Streak ================= -->
 
-<br/>
+<p align="center">
 
-## Contribution Snake
+<img
+width="100%"
+src="https://streak-stats.demolab.com?user=themohitshaw&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"/>
 
-<img width="100%" src="https://raw.githubusercontent.com/themohitshaw/themohitshaw/output/github-contribution-grid-snake.svg"/>
+</p>
 
-<sub>Requires a small GitHub Action to generate — see setup note below.</sub>
+<br>
 
-<br/><br/>
+<!-- ================= Activity Graph ================= -->
+
+<p align="center">
+
+<img
+width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=themohitshaw&theme=tokyo-night&hide_border=true"
+alt="Activity Graph"/>
+
+</p>
+
+
+
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,25:4FACFE,50:00F2FE,75:43E97B,100:38F9D7&height=120&section=footer"/>
+
 </div>
