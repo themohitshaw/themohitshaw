@@ -83,10 +83,10 @@ I'm a full stack developer with a growing focus on data science and Android deve
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=themohitshaw&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=2C5364&icon_color=2C5364&text_color=333333&bg_color=ffffff"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=themohitshaw&show_icons=true" />
 </td>
 <td width="50%" valign="top">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=themohitshaw&layout=compact&theme=default&hide_border=true&title_color=2C5364&text_color=333333&bg_color=ffffff"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=themohitshaw&layout=compact" />
 </td>
 </tr>
 </table>
