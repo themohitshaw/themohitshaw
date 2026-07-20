@@ -26,7 +26,7 @@ I'm a full stack developer with a growing focus on data science and Android deve
 | 🔭 **Currently Building** | KMBB College Management System · AI Chatbot · Android Apps |
 | 📚 **Currently Learning** | Android (Kotlin), Data Science, Python |
 | 💬 **Interests** | Android Development, Data Science, Flask |
-| 📫 **Reach Me** | [mohitshaw188@gmail.com](mailto:mohitshaw188@gmail.com) |
+| 📫 **Reach Me** | [mohitshaw.works@gmail.com](mailto:mohitshaw.works@gmail.com) |
 
 <br/>
 
