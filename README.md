@@ -107,19 +107,14 @@ alt="Top Languages"/>
 <br>
 
 <!-- ================= Streak ================= -->
-
 <p align="center">
-
-<img
-width="100%"
-src="https://streak-stats.demolab.com?user=themohitshaw&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"/>
-
+  <img
+    src="https://streak-stats.demolab.com?user=themohitshaw&theme=tokyonight&hide_border=true&border_radius=5"
+    alt="GitHub Streak"
+    width="100%"
+  />
 </p>
-
-<br>
-
-<!-- ================= Activity Graph ================= -->
+</p><!-- ================= Activity Graph ================= -->
 
 <p align="center">
 
